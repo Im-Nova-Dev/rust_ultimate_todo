@@ -1,0 +1,1 @@
+{"rustc":3150348941883679618,"features":"[]","declared_features":"[]","target":9742534077697843481,"profile":12531685835395049461,"path":3093363276849457133,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/num_threads-9e96f07f84e6eae0/dep-lib-num_threads","checksum":false}}],"rustflags":["-D","warnings"],"config":8247474407144887393,"compile_kind":0}

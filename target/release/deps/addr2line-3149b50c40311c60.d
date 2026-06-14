@@ -1,0 +1,12 @@
+/home/nova/github/rust_tui/target/release/deps/addr2line-3149b50c40311c60.d: /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lib.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/frame.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/function.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/line.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lookup.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/unit.rs
+
+/home/nova/github/rust_tui/target/release/deps/libaddr2line-3149b50c40311c60.rlib: /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lib.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/frame.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/function.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/line.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lookup.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/unit.rs
+
+/home/nova/github/rust_tui/target/release/deps/libaddr2line-3149b50c40311c60.rmeta: /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lib.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/frame.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/function.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/line.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lookup.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/unit.rs
+
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lib.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/frame.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/function.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/line.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/lookup.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.25.1/src/unit.rs:

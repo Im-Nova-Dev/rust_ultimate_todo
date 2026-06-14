@@ -1,0 +1,15 @@
+/home/nova/github/rust_tui/target/debug/deps/eyre-bfa55e071fcd014e.d: /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/lib.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/backtrace.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/chain.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/context.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/error.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/fmt.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/kind.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/macros.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/option.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/ptr.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/wrapper.rs
+
+/home/nova/github/rust_tui/target/debug/deps/libeyre-bfa55e071fcd014e.rmeta: /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/lib.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/backtrace.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/chain.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/context.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/error.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/fmt.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/kind.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/macros.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/option.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/ptr.rs /home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/wrapper.rs
+
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/lib.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/backtrace.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/chain.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/context.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/error.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/fmt.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/kind.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/macros.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/option.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/ptr.rs:
+/home/nova/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/eyre-0.6.12/src/wrapper.rs:
