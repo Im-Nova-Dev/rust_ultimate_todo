@@ -2,6 +2,12 @@
 
 A hierarchical todo TUI in Rust (Ratatui). Nested tasks, priorities, status, due dates, tags, filters, undo, and portable project files.
 
+
+
+<img src="image1.png" alt="Screenshot" width="500">
+
+
+
 ## Run
 
 ```bash
