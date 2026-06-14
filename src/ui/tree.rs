@@ -13,20 +13,15 @@ pub(super) fn render(frame: &mut Frame, area: Rect, app: &mut App) {
     let is_focused = matches!(app.mode, Mode::Normal | Mode::Search);
 
     let title = if app.mode == Mode::Search {
-        format!(" 🌲 Tree  [SEARCH: {} ] ", app.search_buf)
+        format!(" 🌲 Tree · search: {} ", app.search_buf)
     } else if let Some(focus_path) = &app.tree.focus_path {
         if let Some(t) = app.task_at(focus_path) {
-            format!(
-                " 🌲 Tree [FOCUSED on #{}] (j/k • h/l expand • b/u parent • 0 top • c dup • e edit • a/A add • d del) ",
-                t.id
-            )
+            format!(" 🌲 Tree · focus #{} ", t.id)
         } else {
-            " 🌲 Tree (j/k • h/l expand • b/u parent • 0 top • c dup • e edit • a/A add • d del) "
-                .to_string()
+            " 🌲 Tree · focus ".to_string()
         }
     } else {
-        " 🌲 Tree (j/k • h/l expand • b/u parent • 0 top • c dup • e edit • a/A add • d del) "
-            .to_string()
+        " 🌲 Tree ".to_string()
     };
 
     let block = Block::new()
